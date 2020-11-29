@@ -1,0 +1,22 @@
+{
+  "files": {
+    "RiverInformation.js": "/raulavilesrodriguez/rios/static/js/RiverInformation.09948c14.chunk.js",
+    "RiverInformation.js.map": "/raulavilesrodriguez/rios/static/js/RiverInformation.09948c14.chunk.js.map",
+    "main.css": "/raulavilesrodriguez/rios/static/css/main.126e9387.chunk.css",
+    "main.js": "/raulavilesrodriguez/rios/static/js/main.9dabf6dd.chunk.js",
+    "main.js.map": "/raulavilesrodriguez/rios/static/js/main.9dabf6dd.chunk.js.map",
+    "runtime-main.js": "/raulavilesrodriguez/rios/static/js/runtime-main.58fc0887.js",
+    "runtime-main.js.map": "/raulavilesrodriguez/rios/static/js/runtime-main.58fc0887.js.map",
+    "static/js/3.27d8c7a1.chunk.js": "/raulavilesrodriguez/rios/static/js/3.27d8c7a1.chunk.js",
+    "static/js/3.27d8c7a1.chunk.js.map": "/raulavilesrodriguez/rios/static/js/3.27d8c7a1.chunk.js.map",
+    "index.html": "/raulavilesrodriguez/rios/index.html",
+    "static/css/main.126e9387.chunk.css.map": "/raulavilesrodriguez/rios/static/css/main.126e9387.chunk.css.map",
+    "static/js/3.27d8c7a1.chunk.js.LICENSE.txt": "/raulavilesrodriguez/rios/static/js/3.27d8c7a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58fc0887.js",
+    "static/js/3.27d8c7a1.chunk.js",
+    "static/css/main.126e9387.chunk.css",
+    "static/js/main.9dabf6dd.chunk.js"
+  ]
+}
